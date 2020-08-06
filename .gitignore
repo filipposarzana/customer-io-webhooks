@@ -1,0 +1,36 @@
+# yarn-cache
+.yarn-cache
+
+# dependencies
+**/node_modules
+
+# docs
+**/docs
+
+# linting
+.eslintcache
+
+# testing
+**/coverage
+
+# production
+**/build
+
+# publish
+**/dist
+
+# environments
+*.local
+
+# misc
+.DS_Store
+*.log*
+
+# env
+.env
+
+# PEM file with private keys
+*.pem
+
+# X-HOOK-SECRET
+.XHOOKSECRET
